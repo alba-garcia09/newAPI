@@ -31,5 +31,5 @@ export default [
         'objects': 'always',
       },],
     },
-  }
+  },
 ];
